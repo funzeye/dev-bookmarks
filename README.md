@@ -73,7 +73,7 @@ Colour:
 Design Inspiration
 - [Blacktie](http://www.blacktie.co/)
 - [HTML5 Up](http://html5up.net/)
-- [Awwwards](http://www.awwwards.com/)
+- [Awwwards](http://www.awwwards.com/awards-of-the-day/)
 - [Site Inspire](http://www.siteinspire.com/)
 - [Httpster.net](http://httpster.net/)
 - [siiimple](http://www.siiimple.com/)
