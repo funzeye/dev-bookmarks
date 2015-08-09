@@ -93,6 +93,7 @@ Favourite Web Designers/Agencies:
 - [nGen Works](http://ngenworks.com/)
 - [Built By Buffalo](http://builtbybuffalo.com/)
 - [SFCD](https://sfcd.com/)
+- [Filament Group](https://www.filamentgroup.com/)
 
 Typography:
 - [Type Framework](http://typeplate.com/)
