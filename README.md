@@ -18,6 +18,7 @@ Open Device Labs
 Site Mockups:
 - [Dunnnk](http://dunnnk.com/#ref=muzli)
 - [Full Page Screenshot](http://ctrlq.org/screenshots/)
+- [Place It](https://placeit.net/)
 
 DOM:
 - [DOM Animator](http://tholman.com/dom-animator/)
