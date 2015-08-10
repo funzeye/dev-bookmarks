@@ -19,6 +19,9 @@ Site Mockups:
 - [Dunnnk](http://dunnnk.com/#ref=muzli)
 - [Full Page Screenshot](http://ctrlq.org/screenshots/)
 - [Place It](https://placeit.net/)
+- [Magic Mockup](http://magicmockups.com/)
+- [Frame](http://frame.lab25.co.uk/)
+- [Shape It App](http://shapeitapp.com/)
 
 DOM:
 - [DOM Animator](http://tholman.com/dom-animator/)
