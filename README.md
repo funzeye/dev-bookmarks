@@ -76,6 +76,7 @@ Colour:
 - [Colour Hunt](http://colorhunt.co/)
 - [Coolors](http://coolors.co)
 - [Colour Lovers](http://www.colourlovers.com/)
+- [Flat UI Picker](http://www.flatuicolorpicker.com/)
 
 Design Inspiration
 - [Blacktie](http://www.blacktie.co/)
