@@ -74,6 +74,8 @@ Colour:
 - [Material Design Color Generator](http://www.materialpalette.com/)
 - [Name That Color](http://chir.ag/projects/name-that-color/#F5F1E9)
 - [Colour Hunt](http://colorhunt.co/)
+- [Coolors](http://coolors.co)
+- [Colour Lovers](http://www.colourlovers.com/)
 
 Design Inspiration
 - [Blacktie](http://www.blacktie.co/)
