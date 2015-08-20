@@ -73,6 +73,7 @@ Colour:
 - [Material Design Palettes](http://www.google.com/design/spec/style/color.html#color-color-palette)
 - [Material Design Color Generator](http://www.materialpalette.com/)
 - [Name That Color](http://chir.ag/projects/name-that-color/#F5F1E9)
+- [Colour Hunt](http://colorhunt.co/)
 
 Design Inspiration
 - [Blacktie](http://www.blacktie.co/)
