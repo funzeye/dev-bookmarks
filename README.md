@@ -102,6 +102,7 @@ Favourite Web Designers/Agencies:
 - [Built By Buffalo](http://builtbybuffalo.com/)
 - [SFCD](https://sfcd.com/)
 - [Filament Group](https://www.filamentgroup.com/)
+- [Paravel](http://paravelinc.com/)
 
 Typography:
 - [Type Framework](http://typeplate.com/)
