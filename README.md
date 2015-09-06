@@ -77,6 +77,7 @@ Colour:
 - [Coolors](http://coolors.co)
 - [Colour Lovers](http://www.colourlovers.com/)
 - [Flat UI Picker](http://www.flatuicolorpicker.com/)
+- [Color Codes Meta List](http://htmlcolorcodes.com/resources/best-color-palette-generators/)
 
 Design Inspiration
 - [Blacktie](http://www.blacktie.co/)
