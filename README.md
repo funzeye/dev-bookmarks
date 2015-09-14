@@ -104,6 +104,7 @@ Favourite Web Designers/Agencies:
 - [SFCD](https://sfcd.com/)
 - [Filament Group](https://www.filamentgroup.com/)
 - [Paravel](http://paravelinc.com/)
+- [Quant](http://quant.agency/)
 
 Typography:
 - [Type Framework](http://typeplate.com/)
