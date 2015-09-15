@@ -114,14 +114,13 @@ Onboarding:
 - [First Time User](http://firsttimeux.tumblr.com/)
 - [User Onboarding](http://www.useronboard.com/onboarding-teardowns/)
 
-
-
 Typography Inspiration
 - [Typ.io](https://typ.io/)
 - [Type Genius](http://www.typegenius.com/)
 - [Type Wolf](http://www.typewolf.com/)
 - [Types In Use](http://fontsinuse.com/)
 - [WordMark](http://www.wordmark.it/)
+- [Font Pair](http://fontpair.co/)
 
 Images & Stock Images
 - [All The Free Stock](http://allthefreestock.com/)
