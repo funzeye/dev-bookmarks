@@ -121,6 +121,7 @@ Typography Inspiration
 - [Types In Use](http://fontsinuse.com/)
 - [WordMark](http://www.wordmark.it/)
 - [Font Pair](http://fontpair.co/)
+- [Use & Modify](http://usemodify.com/)
 
 Images & Stock Images
 - [All The Free Stock](http://allthefreestock.com/)
