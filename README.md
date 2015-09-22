@@ -105,6 +105,7 @@ Favourite Web Designers/Agencies:
 - [Filament Group](https://www.filamentgroup.com/)
 - [Paravel](http://paravelinc.com/)
 - [Quant](http://quant.agency/)
+- [Heck House](http://heckhouse.com/)
 
 Typography:
 - [Type Framework](http://typeplate.com/)
