@@ -106,6 +106,7 @@ Favourite Web Designers/Agencies:
 - [Paravel](http://paravelinc.com/)
 - [Quant](http://quant.agency/)
 - [Heck House](http://heckhouse.com/)
+- [Bright Umbrella](http://abrightumbrella.com/)
 
 Typography:
 - [Type Framework](http://typeplate.com/)
