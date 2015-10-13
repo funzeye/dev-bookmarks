@@ -107,6 +107,7 @@ Favourite Web Designers/Agencies:
 - [Quant](http://quant.agency/)
 - [Heck House](http://heckhouse.com/)
 - [Bright Umbrella](http://abrightumbrella.com/)
+- [Mud](http://ournameismud.co.uk/)
 
 Typography:
 - [Type Framework](http://typeplate.com/)
