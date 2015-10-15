@@ -142,7 +142,7 @@ Maps:
 CSS:
 - [Must Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)
 - [Hover Effects - hover.css](https://ianlunn.github.io/Hover/)
-BEM, OOCSS, SMACSS, Idiomatic
+- BEM, OOCSS, SMACSS, Idiomatic
 
 
 
