@@ -108,6 +108,7 @@ Favourite Web Designers/Agencies:
 - [Heck House](http://heckhouse.com/)
 - [Bright Umbrella](http://abrightumbrella.com/)
 - [Mud](http://ournameismud.co.uk/)
+- [Sparkbox](http://seesparkbox.com/)
 
 Typography:
 - [Type Framework](http://typeplate.com/)
