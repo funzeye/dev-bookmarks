@@ -110,6 +110,9 @@ Favourite Web Designers/Agencies:
 - [Mud](http://ournameismud.co.uk/)
 - [Sparkbox](http://seesparkbox.com/)
 - [Fiasco Design](http://fiascodesign.co.uk/)
+- [Humaan](http://humaan.com/)
+- [Happy Cog](http://happycog.com/)
+- [Clearleft](http://clearleft.com/)
 
 Typography:
 - [Type Framework](http://typeplate.com/)
