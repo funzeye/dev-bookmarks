@@ -118,6 +118,7 @@ Favourite Web Designers/Agencies:
 - [Huge](http://www.hugeinc.com/)
 - [Agency](http://agency.sc/)
 - [Simple as Milk](http://simpleasmilk.com/)
+- [Amber Creative](http://ambercreative.co/)
 
 Typography:
 - [Type Framework](http://typeplate.com/)
