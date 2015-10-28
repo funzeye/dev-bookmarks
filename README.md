@@ -113,6 +113,11 @@ Favourite Web Designers/Agencies:
 - [Humaan](http://humaan.com/)
 - [Happy Cog](http://happycog.com/)
 - [Clearleft](http://clearleft.com/)
+- [Thoughtbot](https://thoughtbot.com/)
+- [Envy](http://madewithenvy.com/)
+- [Huge](http://www.hugeinc.com/)
+- [Agency](http://agency.sc/)
+- [Simple as Milk](http://simpleasmilk.com/)
 
 Typography:
 - [Type Framework](http://typeplate.com/)
