@@ -140,6 +140,7 @@ Typography Inspiration
 Images & Stock Images
 - [All The Free Stock](http://allthefreestock.com/)
 - [RICG Responsive Images](https://github.com/ResponsiveImagesCG/wp-tevko-responsive-images)
+- [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
 
 Hybrid Mobile:
 - [Ionic](http://ionicframework.com/)
