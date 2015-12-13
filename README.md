@@ -109,6 +109,7 @@ Design Inspiration
 
 
 Favourite Web Designers/Agencies:
+- [&yet](https://andyet.com/)
 - [No Divide](http://nodivide.us/)
 - [nGen Works](http://ngenworks.com/)
 - [Built By Buffalo](http://builtbybuffalo.com/)
@@ -119,6 +120,7 @@ Favourite Web Designers/Agencies:
 - [Heck House](http://heckhouse.com/)
 - [Bright Umbrella](http://abrightumbrella.com/)
 - [Mud](http://ournameismud.co.uk/)
+- [Mule Design](http://muledesign.com/)
 - [Sparkbox](http://seesparkbox.com/)
 - [Fiasco Design](http://fiascodesign.co.uk/)
 - [Humaan](http://humaan.com/)
@@ -130,6 +132,7 @@ Favourite Web Designers/Agencies:
 - [Agency](http://agency.sc/)
 - [Simple as Milk](http://simpleasmilk.com/)
 - [Amber Creative](http://ambercreative.co/)
+- [Ghostly Ferns](http://ghostlyferns.com/)
 
 Typography:
 - [Type Framework](http://typeplate.com/)
