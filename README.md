@@ -5,6 +5,9 @@ WordPress:
 - [Killer WordPress Checklist](http://phirebase.com/blog/wordpress-checklist-infographic/)  
 - [SEO Optimized Blog Posts](http://www.1stwebdesigner.com/guide-write-seo-optimized-blog-post/)  
 
+JavaScript
+- [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+
 Responsive Tables:
 - [Zurb Tables](http://zurb.com/playground/responsive-tables)
 - [Elvery](http://elvery.net/demo/responsive-tables/#)
