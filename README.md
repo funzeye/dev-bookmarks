@@ -78,6 +78,7 @@ Performance:
 
 Navigation:
 - [NavNav](http://navnav.co/)
+- [Priority+](http://bradfrost.com/blog/post/revisiting-the-priority-pattern/)
 
 Colour:
 - [Dyecol - Color Generator](http://dyecol.com/)
