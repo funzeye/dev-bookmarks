@@ -63,6 +63,10 @@ Payment:
 - [Simplify Payment Forms](https://www.youtube.com/watch?v=wi9BnTuAoes&list=PLg-UKERBljNy2Yem3RJkYL1V70dpzkysC&app=desktop)
 - [Card -One Line Credit Card Form](http://jessepollak.github.io/card/)
 
+Pricing Tables:
+- [CoDrops](http://tympanus.net/Development/PricingTablesInspiration/)
+- [CodyHouse](https://codyhouse.co/demo/pricing-tables/index.html)
+
 Public Speaking:
 - [speaking.io](http://speaking.io/)
 - [Master Toolkit](http://www.twistimage.com/blog/archives/the-public-speakers-master-toolkit/)
