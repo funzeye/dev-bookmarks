@@ -175,7 +175,8 @@ CSS:
 - [Hover Effects - hover.css](https://ianlunn.github.io/Hover/)
 - BEM, OOCSS, SMACSS, Idiomatic
 
-
+GIFs:
+- [Gifpop](http://gifpop.io/)
 
 
 
