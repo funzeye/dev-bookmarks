@@ -58,6 +58,7 @@ Embedded Content:
 
 SEO:
 - [Fundamentals For Web Designers](http://webdesign.tutsplus.com/series/seo-fundamentals-for-web-designers--webdesign-9715)
+- [Technical Guide](https://ma.ttias.be/technical-guide-seo/)
 
 Payment:
 - [Simplify Payment Forms](https://www.youtube.com/watch?v=wi9BnTuAoes&list=PLg-UKERBljNy2Yem3RJkYL1V70dpzkysC&app=desktop)
