@@ -151,6 +151,7 @@ Onboarding:
 - [User Onboarding](http://www.useronboard.com/onboarding-teardowns/)
 
 Typography Inspiration
+- [Font Flame](http://fontflame.com/)
 - [Typ.io](https://typ.io/)
 - [Type Genius](http://www.typegenius.com/)
 - [Type Wolf](http://www.typewolf.com/)
