@@ -3,7 +3,6 @@ All my Go-To Resources for various Web Design and Development tasks
 
 WordPress:  
 - [Killer WordPress Checklist](http://phirebase.com/blog/wordpress-checklist-infographic/)  
-- [SEO Optimized Blog Posts](http://www.1stwebdesigner.com/guide-write-seo-optimized-blog-post/)  
 
 JavaScript
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
@@ -59,6 +58,7 @@ Embedded Content:
 SEO:
 - [Fundamentals For Web Designers](http://webdesign.tutsplus.com/series/seo-fundamentals-for-web-designers--webdesign-9715)
 - [Technical Guide](https://ma.ttias.be/technical-guide-seo/)
+- [SEO Optimized Blog Posts](http://www.1stwebdesigner.com/guide-write-seo-optimized-blog-post/)  
 
 Payment:
 - [Simplify Payment Forms](https://www.youtube.com/watch?v=wi9BnTuAoes&list=PLg-UKERBljNy2Yem3RJkYL1V70dpzkysC&app=desktop)
