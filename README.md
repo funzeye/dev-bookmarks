@@ -34,7 +34,7 @@ Site Mockups:
 - [Frame](http://frame.lab25.co.uk/)
 - [Shape It App](http://shapeitapp.com/)
 
-DOM:
+DOM/Console Cleverness:
 - [DOM Animator](http://tholman.com/dom-animator/)
 
 Accessibility:
@@ -179,6 +179,8 @@ CSS:
 GIFs:
 - [Gifpop](http://gifpop.io/)
 
+8 Bit Art:
+- [Make 8-Bit Art](https://make8bitart.com/)
 
 
 
