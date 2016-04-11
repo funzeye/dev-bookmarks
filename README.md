@@ -24,7 +24,7 @@ Carousels:
 
 Open Device Labs
 - [Device Lab Site](http://opendevicelab.com/)
-- [Building a Device Lab](http://larahogan.me/devicelab/)
+- [Building a Device Lab](http://buildingadevicelab.com/)
 
 Site Mockups:
 - [Dunnnk](http://dunnnk.com/#ref=muzli)
