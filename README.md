@@ -160,6 +160,7 @@ Typography Inspiration
 - [WordMark](http://www.wordmark.it/)
 - [Font Pair](http://fontpair.co/)
 - [Use & Modify](http://usemodify.com/)
+- [Typography Handbook](http://typographyhandbook.com/)
 
 Images & Stock Images
 - [All The Free Stock](http://allthefreestock.com/)
