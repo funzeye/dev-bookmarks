@@ -161,6 +161,7 @@ Typography Inspiration
 - [Font Pair](http://fontpair.co/)
 - [Use & Modify](http://usemodify.com/)
 - [Typography Handbook](http://typographyhandbook.com/)
+- [40 Best Google Fonts](https://www.typewolf.com/google-fonts)
 
 Images & Stock Images
 - [All The Free Stock](http://allthefreestock.com/)
