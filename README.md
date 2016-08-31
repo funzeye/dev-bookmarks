@@ -17,7 +17,7 @@ Responsive Tables:
 - [Joshua Hibbert](http://joshnh.com/weblog/getting-responsive-tables-to-behave/)
 
 Grid Layout:
-- [Grid By Eample](http://gridbyexample.com/)
+- [Grid By Example](http://gridbyexample.com/)
 
 Carousels:
 - [Filiment Group Carousel](https://github.com/filamentgroup/responsive-carousel)
