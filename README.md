@@ -16,6 +16,9 @@ Responsive Tables:
 - [Filament Group](https://www.filamentgroup.com/examples/rwd-table-patterns/)
 - [Joshua Hibbert](http://joshnh.com/weblog/getting-responsive-tables-to-behave/)
 
+Grid Layout:
+- [Grid By Eample](http://gridbyexample.com/)
+
 Carousels:
 - [Filiment Group Carousel](https://github.com/filamentgroup/responsive-carousel)
 - [Ideal Image Slider Vanilla JS](http://gilbitron.github.io/Ideal-Image-Slider/)
