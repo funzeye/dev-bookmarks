@@ -190,6 +190,8 @@ GIFs:
 8 Bit Art:
 - [Make 8-Bit Art](https://make8bitart.com/)
 
+Security:
+- [Let's Encrypt](https://letsencrypt.org/)
 
 
 
