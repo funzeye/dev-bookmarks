@@ -4,6 +4,7 @@ All my Go-To Resources for various Web Design and Development tasks
 WordPress:  
 - [Killer WordPress Checklist](http://phirebase.com/blog/wordpress-checklist-infographic/) 
 - [Customize Admin Dashboard](http://mediatemple.net/blog/news/customizing-the-wordpress-admin-experience-for-clients/)
+- [Safe For Clients](https://torquemag.io/2017/05/make-wordpress-safe-for-clients/)
 
 JavaScript
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
