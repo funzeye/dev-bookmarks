@@ -187,8 +187,9 @@ CSS:
 GIFs:
 - [Gifpop](http://gifpop.io/)
 
-8 Bit Art:
+Gaming & Pixel Art:
 - [Make 8-Bit Art](https://make8bitart.com/)
+- [Pixel Art Tutorials](https://www.patreon.com/saint11/posts?tag=tutorial)
 
 Security:
 - [Let's Encrypt](https://letsencrypt.org/)
