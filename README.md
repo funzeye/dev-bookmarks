@@ -1,6 +1,10 @@
 # dev-bookmarks
 All my Go-To Resources for various Web Design and Development tasks 
 
+Site Planning:
+- [Planning Guide](https://www.smashingmagazine.com/2018/02/comprehensive-website-planning-guide-part1/)
+- [Start & Finish any Web App Project](https://nickjanetakis.com/blog/how-to-start-and-finish-any-web-app-project)
+
 WordPress:  
 - [Killer WordPress Checklist](http://phirebase.com/blog/wordpress-checklist-infographic/) 
 - [Customize Admin Dashboard](http://mediatemple.net/blog/news/customizing-the-wordpress-admin-experience-for-clients/)
@@ -17,7 +21,7 @@ Responsive Tables:
 - [Filament Group](https://www.filamentgroup.com/examples/rwd-table-patterns/)
 - [Joshua Hibbert](http://joshnh.com/weblog/getting-responsive-tables-to-behave/)
 
-Grid Layout:
+CSS Grid Layout:
 - [Grid By Example](http://gridbyexample.com/)
 
 Carousels:
@@ -43,10 +47,6 @@ DOM/Console Cleverness:
 
 Accessibility:
 - [Accessibility audit](http://substantial.com/blog/2014/07/22/how-i-audit-a-website-for-accessibility/)
-
-Style Guides:
-- [Style Guides](http://styleguides.io/)
-- [Poor Man's Styleguide](http://www.poormansstyleguide.com/)
 
 Icons:
 - [Droid Icons](https://github.com/theDazzler/droidicon)
@@ -118,7 +118,6 @@ Design Inspiration
 - [PatternTap](http://patterntap.com/patterntap)
 - [Mobile Design Patterns](http://pttrns.com/)
 - [CodyHouse](http://codyhouse.co/)
-
 
 Favourite Web Designers/Agencies:
 - [&yet](https://andyet.com/)
@@ -195,6 +194,13 @@ Gaming & Pixel Art:
 Security:
 - [Let's Encrypt](https://letsencrypt.org/)
 
+Design Systems:
+- [Design System - Beyond Tools](https://www.smashingmagazine.com/2018/03/building-design-systems-to-improve-work/)
+- [Design Sytems - Micro Sites](http://mediatemple.net/blog/tips/design-microsites/ )
+
+Style Guides:
+- [Style Guides](http://styleguides.io/)
+- [Poor Man's Styleguide](http://www.poormansstyleguide.com/)
 
 
 
