@@ -120,6 +120,10 @@ Design Inspiration
 - [CodyHouse](http://codyhouse.co/)
 
 Favourite Web Designers/Agencies:
+- [Simple Bits](http://simplebits.com/)
+- [Brad Frost](http://bradfrost.com/)
+- [Sarah Drasner](http://sarahdrasnerdesign.com/)
+- [Heck House](http://heckhouse.com/)
 - [&yet](https://andyet.com/)
 - [No Divide](http://nodivide.us/)
 - [nGen Works](http://ngenworks.com/)
@@ -128,7 +132,6 @@ Favourite Web Designers/Agencies:
 - [Filament Group](https://www.filamentgroup.com/)
 - [Paravel](http://paravelinc.com/)
 - [Quant](http://quant.agency/)
-- [Heck House](http://heckhouse.com/)
 - [Bright Umbrella](http://abrightumbrella.com/)
 - [Mud](http://ournameismud.co.uk/)
 - [Mule Design](http://muledesign.com/)
@@ -144,7 +147,6 @@ Favourite Web Designers/Agencies:
 - [Simple as Milk](http://simpleasmilk.com/)
 - [Amber Creative](http://ambercreative.co/)
 - [Ghostly Ferns](http://ghostlyferns.com/)
-- [Sarah Drasner](http://sarahdrasnerdesign.com/)
 
 Typography:
 - [Type Framework](http://typeplate.com/)
