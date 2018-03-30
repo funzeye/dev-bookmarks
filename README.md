@@ -203,21 +203,4 @@ Design Systems:
 Style Guides:
 - [Style Guides](http://styleguides.io/)
 - [Poor Man's Styleguide](http://www.poormansstyleguide.com/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [Style Guide Guide](https://bradfrost.github.io/style-guide-guide/)
