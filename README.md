@@ -102,6 +102,10 @@ Colour:
 - [Flat UI Picker](http://www.flatuicolorpicker.com/)
 - [Color Codes Meta List](http://htmlcolorcodes.com/resources/best-color-palette-generators/)
 
+Colour Systems:
+- [Material-UI system](https://uxplanet.org/designing-systematic-colors-b5d2605b15c)
+- [Interaction of colour variables](https://www.youtube.com/watch?v=nR0toFsFlPM&t=18200s)
+
 Design Inspiration
 - [Blacktie](http://www.blacktie.co/)
 - [HTML5 Up](http://html5up.net/)
