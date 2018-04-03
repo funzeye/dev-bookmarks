@@ -128,6 +128,7 @@ Favourite Web Designers/Agencies:
 - [Brad Frost](http://bradfrost.com/)
 - [Sarah Drasner](http://sarahdrasnerdesign.com/)
 - [Heck House](http://heckhouse.com/)
+- [Cloud Four](https://cloudfour.com/)
 - [&yet](https://andyet.com/)
 - [No Divide](http://nodivide.us/)
 - [nGen Works](http://ngenworks.com/)
