@@ -182,6 +182,9 @@ Hybrid Mobile:
 - [Ionic](http://ionicframework.com/)
 - [Visual Studio Tools for Apache Cordova](https://www.visualstudio.com/en-US/explore/cordova-vs)
 
+PWA:
+- [PWA Simple Roadmap](https://cloudfour.com/thinks/a-progressive-roadmap-for-your-progressive-web-app/)
+
 Maps:
 - [Static Map Maker](http://codepen.io/katydecorah/pen/Klieu)
 - [Adaptive Maps](http://codepen.io/bradfrost/full/tLxAs)
