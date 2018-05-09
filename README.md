@@ -47,6 +47,8 @@ DOM/Console Cleverness:
 
 Accessibility:
 - [Accessibility audit](http://substantial.com/blog/2014/07/22/how-i-audit-a-website-for-accessibility/)
+- [Microsoft Inclusive Design](https://www.microsoft.com/en-us/design/inclusive)
+- [The A11y Project](https://a11yproject.com/)
 
 Icons:
 - [Droid Icons](https://github.com/theDazzler/droidicon)
