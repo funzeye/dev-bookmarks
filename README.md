@@ -94,7 +94,6 @@ Navigation:
 - [OkayNav](https://github.com/VPenkov/okayNav)
 
 Colour:
-- [Dyecol - Color Generator](http://dyecol.com/)
 - [Material Design Palettes](http://www.google.com/design/spec/style/color.html#color-color-palette)
 - [Material Design Color Generator](http://www.materialpalette.com/)
 - [Name That Color](http://chir.ag/projects/name-that-color/#F5F1E9)
