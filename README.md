@@ -204,6 +204,7 @@ Gaming & Pixel Art:
 
 Security:
 - [Let's Encrypt](https://letsencrypt.org/)
+- [Https is easy](https://httpsiseasy.com/)
 
 Design Systems:
 - [Design System - Beyond Tools](https://www.smashingmagazine.com/2018/03/building-design-systems-to-improve-work/)
