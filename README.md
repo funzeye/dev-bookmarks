@@ -82,12 +82,6 @@ Public Speaking:
 Media Queries:
 - [Simple & Elegant](http://davidwalsh.name/sass-media-query)
 
-Performance:
-- [7 Website Grading Tools](http://thenextweb.com/dd/2014/11/09/7-indispensable-free-website-graders-content-scores)
-- [Feed The Bot](https://www.feedthebot.com/pagespeed/)
-- [Awesome WPO](https://github.com/davidsonfellipe/awesome-wpo)
-- [Perf Rocks Tools](http://perf.rocks/tools/)
-
 Navigation:
 - [NavNav](http://navnav.co/)
 - [Priority+](http://bradfrost.com/blog/post/revisiting-the-priority-pattern/)
@@ -195,17 +189,6 @@ CSS:
 - [Hover Effects - hover.css](https://ianlunn.github.io/Hover/)
 - BEM, OOCSS, SMACSS, Idiomatic
 
-GIFs:
-- [Gifpop](http://gifpop.io/)
-
-Gaming & Pixel Art:
-- [Make 8-Bit Art](https://make8bitart.com/)
-- [Pixel Art Tutorials](https://www.patreon.com/saint11/posts?tag=tutorial)
-
-Security:
-- [Let's Encrypt](https://letsencrypt.org/)
-- [Https is easy](https://httpsiseasy.com/)
-
 Design Systems:
 - [Design System - Beyond Tools](https://www.smashingmagazine.com/2018/03/building-design-systems-to-improve-work/)
 - [Design Sytems - Micro Sites](http://mediatemple.net/blog/tips/design-microsites/ )
@@ -214,3 +197,23 @@ Style Guides:
 - [Style Guides](http://styleguides.io/)
 - [Poor Man's Styleguide](http://www.poormansstyleguide.com/)
 - [Style Guide Guide](https://bradfrost.github.io/style-guide-guide/)
+
+Performance:
+- [7 Website Grading Tools](http://thenextweb.com/dd/2014/11/09/7-indispensable-free-website-graders-content-scores)
+- [Feed The Bot](https://www.feedthebot.com/pagespeed/)
+- [Awesome WPO](https://github.com/davidsonfellipe/awesome-wpo)
+- [Perf Rocks Tools](http://perf.rocks/tools/)
+- [Web Speed Test](https://webspeedtest.cloudinary.com/)
+
+Security:
+- [Let's Encrypt](https://letsencrypt.org/)
+- [Https is easy](https://httpsiseasy.com/)
+
+##Other
+
+GIFs:
+- [Gifpop](http://gifpop.io/)
+
+Gaming & Pixel Art:
+- [Make 8-Bit Art](https://make8bitart.com/)
+- [Pixel Art Tutorials](https://www.patreon.com/saint11/posts?tag=tutorial)
