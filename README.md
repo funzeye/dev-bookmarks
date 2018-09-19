@@ -208,6 +208,7 @@ Performance:
 Security:
 - [Let's Encrypt](https://letsencrypt.org/)
 - [Https is easy](https://httpsiseasy.com/)
+- [OWASP Top Ten Risks](https://github.com/OWASP/Top10/blob/master/2017/OWASP%20Top%2010-2017%20(en).pdf)
 
 ##Other
 
