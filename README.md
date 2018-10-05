@@ -168,10 +168,13 @@ Typography Inspiration
 - [Typography Handbook](http://typographyhandbook.com/)
 - [40 Best Google Fonts](https://www.typewolf.com/google-fonts)
 
-Images & Stock Images
+Images & Free Stock Images
 - [All The Free Stock](http://allthefreestock.com/)
 - [RICG Responsive Images](https://github.com/ResponsiveImagesCG/wp-tevko-responsive-images)
 - [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
+
+Free Stock Illustrations:
+- [Undraw](https://undraw.co/illustrations)
 
 Hybrid Mobile:
 - [Ionic](http://ionicframework.com/)
@@ -218,3 +221,6 @@ GIFs:
 Gaming & Pixel Art:
 - [Make 8-Bit Art](https://make8bitart.com/)
 - [Pixel Art Tutorials](https://www.patreon.com/saint11/posts?tag=tutorial)
+
+Mega Resources:
+- [Frontend Mentor](https://www.frontendmentor.io/resources)
