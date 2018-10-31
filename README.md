@@ -207,6 +207,7 @@ Performance:
 - [Awesome WPO](https://github.com/davidsonfellipe/awesome-wpo)
 - [Perf Rocks Tools](http://perf.rocks/tools/)
 - [Web Speed Test](https://webspeedtest.cloudinary.com/)
+- [Perf 101](https://3perf.com/talks/web-perf-101/)
 
 Security:
 - [Let's Encrypt](https://letsencrypt.org/)
