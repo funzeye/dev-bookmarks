@@ -172,6 +172,7 @@ Images & Free Stock Images
 - [All The Free Stock](http://allthefreestock.com/)
 - [RICG Responsive Images](https://github.com/ResponsiveImagesCG/wp-tevko-responsive-images)
 - [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
+- [Remove BG](https://www.remove.bg/) - Tool to Remove Backgrounds from images
 
 Free Stock Illustrations:
 - [Undraw](https://undraw.co/illustrations)
