@@ -125,7 +125,6 @@ Favourite Web Designers/Agencies:
 - [Heck House](http://heckhouse.com/)
 - [Cloud Four](https://cloudfour.com/)
 - [&yet](https://andyet.com/)
-- [No Divide](http://nodivide.us/)
 - [nGen Works](http://ngenworks.com/)
 - [Built By Buffalo](http://builtbybuffalo.com/)
 - [SFCD](https://sfcd.com/)
