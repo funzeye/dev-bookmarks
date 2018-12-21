@@ -175,6 +175,7 @@ Images & Free Stock Images
 
 Free Stock Illustrations:
 - [Undraw](https://undraw.co/illustrations)
+- [Humaaans](https://www.humaaans.com/)
 
 Hybrid Mobile:
 - [Ionic](http://ionicframework.com/)
