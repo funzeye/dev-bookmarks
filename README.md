@@ -194,12 +194,13 @@ CSS:
 
 Design Systems:
 - [Design System - Beyond Tools](https://www.smashingmagazine.com/2018/03/building-design-systems-to-improve-work/)
-- [Design Sytems - Micro Sites](http://mediatemple.net/blog/tips/design-microsites/ )
+- [Design Sytems - Micro Sites](http://mediatemple.net/blog/tips/design-microsites/)
 
-Style Guides:
+Style Guides - Pattern Library - Front-End Framework
 - [Style Guides](http://styleguides.io/)
 - [Poor Man's Styleguide](http://www.poormansstyleguide.com/)
 - [Style Guide Guide](https://bradfrost.github.io/style-guide-guide/)
+- [Fractal](https://fractal.build/)
 
 Performance:
 - [7 Website Grading Tools](http://thenextweb.com/dd/2014/11/09/7-indispensable-free-website-graders-content-scores)
