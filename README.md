@@ -119,6 +119,7 @@ Design Inspiration
 - [CodyHouse](http://codyhouse.co/)
 
 Favourite Web Designers/Agencies:
+- [Rally](https://rallyinteractive.com/)
 - [Simple Bits](http://simplebits.com/)
 - [Brad Frost](http://bradfrost.com/)
 - [Sarah Drasner](http://sarahdrasnerdesign.com/)
