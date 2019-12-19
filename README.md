@@ -49,6 +49,7 @@ Accessibility:
 - [Accessibility audit](http://substantial.com/blog/2014/07/22/how-i-audit-a-website-for-accessibility/)
 - [Microsoft Inclusive Design](https://www.microsoft.com/en-us/design/inclusive)
 - [The A11y Project](https://a11yproject.com/)
+- [Bruce Lawson's List](https://www.brucelawson.co.uk/2019/checklist-to-avoid-the-most-common-accessibility-errors)
 
 Icons:
 - [Droid Icons](https://github.com/theDazzler/droidicon)
